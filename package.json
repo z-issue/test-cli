@@ -1,7 +1,7 @@
 {
-  "name": "template",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
+  "name": "<%= name%>",
+  "version": "<%=version%>",
+  "description": "<%= description%>",
   "author": "ZhouPan <darkadapted66@163.com>",
   "private": true,
   "scripts": {
