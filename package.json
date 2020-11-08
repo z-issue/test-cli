@@ -1,5 +1,5 @@
 {
-  "name": "cli",
+  "name": "template",
   "version": "<%=version%>",
   "description": "<%= description%>",
   "author": "ZhouPan <darkadapted66@163.com>",
